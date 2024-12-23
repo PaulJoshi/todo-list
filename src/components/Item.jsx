@@ -1,7 +1,7 @@
 
 const Item = (props) => {
 
-	const handleClick = () => {}
+	const handleClick = () => { }
 
 	return (
 		<div>
